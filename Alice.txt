@@ -5,3 +5,5 @@ New line! Edited in change_alice branch
 This is a new line men
     Indentend text
 Wat
+
+New text for testing pull -r

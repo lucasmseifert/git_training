@@ -1,3 +1,3 @@
-Hi! I'm Bob. I'm a file Lucas just added here. And now modified me!!
+Hi!! I'm Bob. I've been here for a while now.
 
 New line on master
